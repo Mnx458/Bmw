@@ -25,7 +25,15 @@ public class GameActivity extends AppCompatActivity {
 
         final TextView txtTest = (TextView)findViewById(R.id.txtTest);
 
-        ImageButton btnPers = (ImageButton) findViewById(R.id.imgPersonnage);
+        ImageButton btnSettings = (ImageButton) this.findViewById(R.id.imgSettings);
+        btnSettings.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                txtTest.setText("Settings");
+            }
+        });
+
+        ImageButton btnPers = (ImageButton) this.findViewById(R.id.imgPersonnage);
         btnPers.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -33,15 +41,15 @@ public class GameActivity extends AppCompatActivity {
             }
         });
 
-        ImageButton btnNews = (ImageButton) findViewById(R.id.imgNews);
-        btnPers.setOnClickListener(new View.OnClickListener() {
+        ImageButton btnNews = (ImageButton) this.findViewById(R.id.imgNews);
+        btnNews.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 txtTest.setText("News");
             }
         });
 
-        ImageButton btnAction = (ImageButton) findViewById(R.id.imgAction);
+        ImageButton btnAction = (ImageButton) this.findViewById(R.id.imgAction);
         btnPers.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -49,16 +57,16 @@ public class GameActivity extends AppCompatActivity {
             }
         });
 
-        ImageButton btnPays = (ImageButton) findViewById(R.id.imgPays);
-        btnPers.setOnClickListener(new View.OnClickListener() {
+        ImageButton btnPays = (ImageButton) this.findViewById(R.id.imgPays);
+        btnPays.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 txtTest.setText("Pays");
             }
         });
 
-        ImageButton btnNext = (ImageButton) findViewById(R.id.imgNext);
-        btnPers.setOnClickListener(new View.OnClickListener() {
+        ImageButton btnNext = (ImageButton) this.findViewById(R.id.imgNext);
+        btnNext.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 txtTest.setText("Next");
