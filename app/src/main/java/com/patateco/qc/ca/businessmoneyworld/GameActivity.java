@@ -50,7 +50,7 @@ public class GameActivity extends AppCompatActivity {
         });
 
         ImageButton btnAction = (ImageButton) this.findViewById(R.id.imgAction);
-        btnPers.setOnClickListener(new View.OnClickListener() {
+        btnAction.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 txtTest.setText("Actions");
@@ -72,6 +72,7 @@ public class GameActivity extends AppCompatActivity {
                 txtTest.setText("Next");
             }
         });
+
 
 
 
