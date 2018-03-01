@@ -25,7 +25,7 @@ public class GameActivity extends AppCompatActivity {
 
         final TextView txtTest = (TextView)findViewById(R.id.txtTest);
 
-        ImageButton btnSettings = (ImageButton) this.findViewById(R.id.imgSettings);
+        ImageButton btnSettings = (ImageButton) this.findViewById(R.id.btnSettings);
         btnSettings.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -33,7 +33,7 @@ public class GameActivity extends AppCompatActivity {
             }
         });
 
-        ImageButton btnPers = (ImageButton) this.findViewById(R.id.imgPersonnage);
+        ImageButton btnPers = (ImageButton) this.findViewById(R.id.btnPersonnage);
         btnPers.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -41,7 +41,7 @@ public class GameActivity extends AppCompatActivity {
             }
         });
 
-        ImageButton btnNews = (ImageButton) this.findViewById(R.id.imgNews);
+        ImageButton btnNews = (ImageButton) this.findViewById(R.id.btnNews);
         btnNews.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -49,7 +49,7 @@ public class GameActivity extends AppCompatActivity {
             }
         });
 
-        ImageButton btnAction = (ImageButton) this.findViewById(R.id.imgAction);
+        ImageButton btnAction = (ImageButton) this.findViewById(R.id.btnAction);
         btnAction.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -57,7 +57,7 @@ public class GameActivity extends AppCompatActivity {
             }
         });
 
-        ImageButton btnPays = (ImageButton) this.findViewById(R.id.imgPays);
+        ImageButton btnPays = (ImageButton) this.findViewById(R.id.btnPays);
         btnPays.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -65,7 +65,7 @@ public class GameActivity extends AppCompatActivity {
             }
         });
 
-        ImageButton btnNext = (ImageButton) this.findViewById(R.id.imgNext);
+        ImageButton btnNext = (ImageButton) this.findViewById(R.id.btnNext);
         btnNext.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

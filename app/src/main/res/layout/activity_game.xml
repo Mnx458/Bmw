@@ -8,7 +8,7 @@
     tools:context="com.patateco.qc.ca.businessmoneyworld.GameActivity">
 
     <ImageButton
-        android:id="@+id/imgSettings"
+        android:id="@+id/btnSettings"
         android:layout_width="34dp"
         android:layout_height="30dp"
         android:layout_marginBottom="8dp"
@@ -39,13 +39,13 @@
         app:layout_constraintVertical_bias="1.0" />
 
     <ImageButton
-        android:id="@+id/imgPersonnage"
+        android:id="@+id/btnPersonnage"
         android:layout_width="39dp"
         android:layout_height="38dp"
         android:layout_marginBottom="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:background="@android:drawable/screen_background_light_transparent"
+        android:background="@android:color/transparent"
         android:scaleType="fitXY"
         android:translationZ="100dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -57,13 +57,13 @@
         app:srcCompat="@drawable/avatar" />
 
     <ImageButton
-        android:id="@+id/imgNews"
+        android:id="@+id/btnNews"
         android:layout_width="35dp"
         android:layout_height="39dp"
         android:layout_marginBottom="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:background="@android:drawable/screen_background_light_transparent"
+        android:background="@android:color/transparent"
         android:scaleType="fitXY"
         android:translationZ="100dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -75,13 +75,13 @@
         app:srcCompat="@drawable/news" />
 
     <ImageButton
-        android:id="@+id/imgAction"
+        android:id="@+id/btnAction"
         android:layout_width="33dp"
         android:layout_height="35dp"
         android:layout_marginBottom="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:background="@android:drawable/screen_background_light_transparent"
+        android:background="@android:color/transparent"
         android:scaleType="fitXY"
         android:translationZ="100dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -93,13 +93,13 @@
         app:srcCompat="@drawable/action" />
 
     <ImageButton
-        android:id="@+id/imgPays"
+        android:id="@+id/btnPays"
         android:layout_width="30dp"
         android:layout_height="31dp"
         android:layout_marginBottom="8dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="8dp"
-        android:background="@android:drawable/screen_background_light_transparent"
+        android:background="@android:color/transparent"
         android:scaleType="fitXY"
         android:translationZ="100dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -111,10 +111,10 @@
         app:srcCompat="@drawable/pays" />
 
     <ImageButton
-        android:id="@+id/imgNext"
+        android:id="@+id/btnNext"
         android:layout_width="35dp"
         android:layout_height="35dp"
-        android:background="@android:drawable/screen_background_light_transparent"
+        android:background="@android:color/transparent"
         android:scaleType="fitXY"
         android:translationZ="100dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -136,7 +136,7 @@
         android:text="BMW"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.878"
+        app:layout_constraintHorizontal_bias="0.038"
         app:layout_constraintStart_toStartOf="@+id/imgCarte"
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.0" />
