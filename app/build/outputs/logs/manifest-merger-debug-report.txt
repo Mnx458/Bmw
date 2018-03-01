@@ -67,7 +67,7 @@ MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Noot\.gradle\caches\
 	android:allowBackup
 		ADDED from C:\Users\Noot\Documents\GitHub\business-money-world\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Noot\Documents\GitHub\business-money-world\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\Noot\Documents\GitHub\business-money-world\app\src\main\AndroidManifest.xml:11:9-68
 activity#com.patateco.qc.ca.businessmoneyworld.GameActivity
 ADDED from C:\Users\Noot\Documents\GitHub\business-money-world\app\src\main\AndroidManifest.xml:12:9-18:20
 	android:name
