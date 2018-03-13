@@ -8,6 +8,8 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.widget.Button;
 import android.widget.ImageButton;
 import android.widget.ImageView;
@@ -27,7 +29,9 @@ public class GameActivity extends AppCompatActivity {
 
         final TextView txtTest = (TextView)findViewById(R.id.txtTest);
 
-        ImageView imgCarte = (ImageView)findViewById(R.id.imgCarte);
+        final ImageView imgCartezoom = (ImageView)findViewById(R.id.imgCarte);
+        final Animation zoomAnimation = AnimationUtils.loadAnimation(this, R.anim.zoom);
+        imgCartezoom.startAnimation(zoomAnimation);
 
 
         ImageButton btnSettings = (ImageButton) this.findViewById(R.id.btnSettings);

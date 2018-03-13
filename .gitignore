@@ -2,3 +2,8 @@
 *.rawproto
 *.json
 *.iml
+*.bin
+*.lock
+*.flat
+*.txt
+*.ap_

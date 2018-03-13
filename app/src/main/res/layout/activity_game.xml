@@ -30,7 +30,7 @@
         android:layout_height="362dp"
         android:layout_marginEnd="8dp"
         android:layout_marginTop="60dp"
-        android:background="@drawable/interface_carte"
+        android:src="@drawable/interface_carte"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"

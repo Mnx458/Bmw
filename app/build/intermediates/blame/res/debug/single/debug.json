@@ -1332,6 +1332,10 @@
         "source": "C:\\Users\\Noot\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\a5ae3e93bc9ca8f1b73dcd252884924a\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
+        "merged": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\build\\intermediates\\res\\merged\\debug\\anim_zoom.xml.flat",
+        "source": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\src\\main\\res\\anim\\zoom.xml"
+    },
+    {
         "merged": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
         "source": "C:\\Users\\Noot\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1f1dc2c6e61ae619a33bb0b0842e1242\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
