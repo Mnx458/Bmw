@@ -772,12 +772,12 @@
         "source": "C:\\Users\\Noot\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1f1dc2c6e61ae619a33bb0b0842e1242\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
-        "merged": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\Noot\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1f1dc2c6e61ae619a33bb0b0842e1242\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
@@ -836,16 +836,16 @@
         "source": "C:\\Users\\Noot\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1f1dc2c6e61ae619a33bb0b0842e1242\\res\\color\\switch_thumb_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pays.png.flat",
+        "source": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\src\\main\\res\\drawable\\pays.png"
+    },
+    {
         "merged": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
         "source": "C:\\Users\\Noot\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1f1dc2c6e61ae619a33bb0b0842e1242\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
         "merged": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\build\\intermediates\\res\\merged\\debug\\drawable_settings.png.flat",
         "source": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\src\\main\\res\\drawable\\settings.png"
-    },
-    {
-        "merged": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pays.png.flat",
-        "source": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\src\\main\\res\\drawable\\pays.png"
     },
     {
         "merged": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
@@ -1466,6 +1466,10 @@
     {
         "merged": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
         "source": "C:\\Users\\Noot\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\1f1dc2c6e61ae619a33bb0b0842e1242\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\build\\intermediates\\res\\merged\\debug\\layout_pop_pers.xml.flat",
+        "source": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\src\\main\\res\\layout\\pop_pers.xml"
     },
     {
         "merged": "C:\\Users\\Noot\\Documents\\GitHub\\business-money-world\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",

@@ -2820,23 +2820,24 @@ public final class R {
     public static final int submenuarrow=0x7f070075;
     public static final int submit_area=0x7f070076;
     public static final int tabMode=0x7f070077;
-    public static final int text=0x7f070078;
-    public static final int text2=0x7f070079;
-    public static final int textSpacerNoButtons=0x7f07007a;
-    public static final int textSpacerNoTitle=0x7f07007b;
-    public static final int time=0x7f07007c;
-    public static final int title=0x7f07007d;
-    public static final int titleDividerNoCustom=0x7f07007e;
-    public static final int title_template=0x7f07007f;
-    public static final int top=0x7f070080;
-    public static final int topPanel=0x7f070081;
-    public static final int txtTest=0x7f070082;
-    public static final int uniform=0x7f070083;
-    public static final int up=0x7f070084;
-    public static final int useLogo=0x7f070085;
-    public static final int withText=0x7f070086;
-    public static final int wrap=0x7f070087;
-    public static final int wrap_content=0x7f070088;
+    public static final int test=0x7f070078;
+    public static final int text=0x7f070079;
+    public static final int text2=0x7f07007a;
+    public static final int textSpacerNoButtons=0x7f07007b;
+    public static final int textSpacerNoTitle=0x7f07007c;
+    public static final int time=0x7f07007d;
+    public static final int title=0x7f07007e;
+    public static final int titleDividerNoCustom=0x7f07007f;
+    public static final int title_template=0x7f070080;
+    public static final int top=0x7f070081;
+    public static final int topPanel=0x7f070082;
+    public static final int txtTest=0x7f070083;
+    public static final int uniform=0x7f070084;
+    public static final int up=0x7f070085;
+    public static final int useLogo=0x7f070086;
+    public static final int withText=0x7f070087;
+    public static final int wrap=0x7f070088;
+    public static final int wrap_content=0x7f070089;
   }
   public static final class integer {
     public static final int abc_config_activityDefaultDur=0x7f080000;
@@ -2889,11 +2890,12 @@ public final class R {
     public static final int notification_template_media_custom=0x7f090028;
     public static final int notification_template_part_chronometer=0x7f090029;
     public static final int notification_template_part_time=0x7f09002a;
-    public static final int select_dialog_item_material=0x7f09002b;
-    public static final int select_dialog_multichoice_material=0x7f09002c;
-    public static final int select_dialog_singlechoice_material=0x7f09002d;
-    public static final int support_simple_spinner_dropdown_item=0x7f09002e;
-    public static final int tooltip=0x7f09002f;
+    public static final int pop_pers=0x7f09002b;
+    public static final int select_dialog_item_material=0x7f09002c;
+    public static final int select_dialog_multichoice_material=0x7f09002d;
+    public static final int select_dialog_singlechoice_material=0x7f09002e;
+    public static final int support_simple_spinner_dropdown_item=0x7f09002f;
+    public static final int tooltip=0x7f090030;
   }
   public static final class mipmap {
     public static final int ic_launcher=0x7f0a0000;

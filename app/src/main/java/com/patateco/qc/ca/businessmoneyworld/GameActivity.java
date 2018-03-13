@@ -1,6 +1,7 @@
 package com.patateco.qc.ca.businessmoneyworld;
 
 import android.app.Activity;
+import android.content.Intent;
 import android.content.pm.ActivityInfo;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -9,6 +10,7 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.Button;
 import android.widget.ImageButton;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 public class GameActivity extends AppCompatActivity {
@@ -25,6 +27,9 @@ public class GameActivity extends AppCompatActivity {
 
         final TextView txtTest = (TextView)findViewById(R.id.txtTest);
 
+        ImageView imgCarte = (ImageView)findViewById(R.id.imgCarte);
+
+
         ImageButton btnSettings = (ImageButton) this.findViewById(R.id.btnSettings);
         btnSettings.setOnClickListener(new View.OnClickListener() {
             @Override
@@ -34,10 +39,12 @@ public class GameActivity extends AppCompatActivity {
         });
 
         ImageButton btnPers = (ImageButton) this.findViewById(R.id.btnPersonnage);
+
         btnPers.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
                 txtTest.setText("Personnage");
+                startActivity(new Intent(GameActivity.this,MenuPersonnage.class));
             }
         });
 
