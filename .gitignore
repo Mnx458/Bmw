@@ -6,4 +6,5 @@
 *.lock
 *.flat
 *.txt
-*.ap_
+.idea/workspace.xml
+.idea/workspace.xml
